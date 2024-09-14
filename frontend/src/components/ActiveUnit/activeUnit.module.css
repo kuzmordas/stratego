@@ -1,0 +1,16 @@
+.activeUnit {
+  display: flex;
+  align-items: center;
+}
+
+.activeUnit__data {
+  margin-left: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.activeUnit__image {
+  width: 48px !important;
+  height: 48px !important;
+}
